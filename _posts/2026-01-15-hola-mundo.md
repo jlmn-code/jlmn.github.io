@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "Mi primera publicación"
+title: "DIARIO"
 date: 2026-01-15
 ---
-¡Hola! Este es mi primer post en mi web de Jekyll.
+
+# A POR TODAS
+
+¡Hola! TODO ES PONERSE 
