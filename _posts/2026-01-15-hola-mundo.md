@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIARIO"
+title: "Day 01"
 date: 2026-01-15
 ---
 
