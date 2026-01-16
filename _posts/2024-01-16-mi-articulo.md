@@ -7,4 +7,4 @@ date: "2026-01-16"
 
 Oh my god!. Its so hard goes to work
 
-I have with my buddies
+I have breakfast with my buddies
