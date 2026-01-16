@@ -4,6 +4,8 @@ title: "DIARIO"
 date: 2026-01-15
 ---
 
-# A POR TODAS
+# THIS IS MY FIRST DAY
 
-¡Hola! TODO ES PONERSE 
+Its late and I have to down and walk my dog.
+
+He is lazy and angry 🐕
