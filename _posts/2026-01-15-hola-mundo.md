@@ -4,7 +4,7 @@ title: "Day 01"
 date: 2026-01-15
 ---
 
-# THIS IS MY FIRST DAY
+# THIS IS MY FIRST DAY.
 
 Its late and I have to down and walk my dog.
 
