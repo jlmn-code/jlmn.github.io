@@ -14,5 +14,5 @@ I don't belive It, how they go to the bathroom. Is It possible that they haven't
 
 Now Pelucas and I are going for a walk 
 
-![taza 2]("/assets/images/taza.jpg")
+![taza 2]("assets/images/taza.jpg")
 
