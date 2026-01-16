@@ -9,4 +9,4 @@ Oh my god!. Its so hard goes to work
 
 I have breakfast with my buddies
 
-I don' belive It, how they go to the bathroom. Is It possible that they haven't bathroom in their house? 🤷😿😨
+I don't belive It, how they go to the bathroom. Is It possible that they haven't bathroom in their house? 🤷😿😨
