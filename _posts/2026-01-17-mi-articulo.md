@@ -1,5 +1,6 @@
 ---
 author: jlmn
+title: DAY 03
 date: 2026-01-17
 ---
 
