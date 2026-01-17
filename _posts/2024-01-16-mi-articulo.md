@@ -1,5 +1,5 @@
 ---
-title: "Day 02"
+title: "Day 02 2026-01-16"
 date: "2026-01-16"
 comments: true
 ---
