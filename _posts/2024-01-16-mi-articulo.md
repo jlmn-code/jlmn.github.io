@@ -12,6 +12,8 @@ I have breakfast with my buddies
 
 I don't belive It, how they go to the bathroom. Is It possible that they haven't bathroom in their house? 🤷😿😨
 
-Now Pelucas and I are going for a walk 
+Now Pelucas and I are going for a walk
+
+Well!! that's all folks .. be good and no farts 🌭
 
 
