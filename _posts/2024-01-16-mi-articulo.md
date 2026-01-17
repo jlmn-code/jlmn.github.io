@@ -1,6 +1,7 @@
 ---
 title: "Day 02"
 date: "2026-01-16"
+comments: true
 ---
 
 # WHAT'S HAPPEN TODAY?
