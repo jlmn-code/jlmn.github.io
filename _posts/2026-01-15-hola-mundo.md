@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Day 01"
-date: 2026-01-15
+title: "Day 01 2026-01-15"
+date: "2026-01-15"
+comments: true
 ---
 
 # THIS IS MY FIRST DAY.
