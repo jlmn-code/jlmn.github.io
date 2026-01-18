@@ -304,13 +304,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# nuevo
-
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light"
-    issue_term: "pathname"
-    label: "comment"
-    repository: "jlmn-code/jlmn.github.io"
