@@ -1,0 +1,6 @@
+<div class="audio-container">
+  <p>Escuchar: {{ include.titulo }}</p>
+  <audio controls>
+    <source src="{{ include.archivo | relative_url }}" type="audio/opos">
+  </audio>
+</div>
