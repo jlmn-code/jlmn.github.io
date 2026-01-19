@@ -304,3 +304,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# include
+
+include: [assets]
+# O añade específicamente la extensión si usas una configuración restrictiva
+keep_files: [.opus, .ogg]
